@@ -27,4 +27,9 @@ public class StepDefinition {
     public void user_is_able_to_view_the_Landing_home_page()  {
         System.out.println("-->> user is able to view the Landing home page");
     }
+
+    @Then("^test case is complete$")
+    public void testCaseIsComplete() {
+        System.out.println("-->> test case is complete");
+    }
 }
