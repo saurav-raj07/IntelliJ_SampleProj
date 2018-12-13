@@ -31,5 +31,6 @@ public class StepDefinition {
     @Then("^test case is complete$")
     public void testCaseIsComplete() {
         System.out.println("-->> test case is complete");
+        System.out.println("-->> test case is complete sucessfully");
     }
 }
