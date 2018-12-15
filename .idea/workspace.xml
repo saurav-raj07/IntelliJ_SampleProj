@@ -4,6 +4,10 @@
     <list default="true" id="f1816f35-d9a8-4e40-8e76-70eb5c0f724c" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/src/test/java/testRunner/newfile.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+<<<<<<< HEAD
+=======
+      <change beforePath="$PROJECT_DIR$/src/test/java/Steps/StepDefinition.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Steps/StepDefinition.java" afterDir="false" />
+>>>>>>> 4466756d8efd54bd2cd4096020c3f2030bc9ec6b
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -18,6 +22,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/testRunner/JSonObJect">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="119">
               <caret line="7" selection-start-line="7" selection-end-line="7" />
             </state>
@@ -29,6 +34,13 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="102">
               <caret line="6" column="1" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+=======
+            <state relative-caret-position="153">
+              <caret line="9" column="26" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+>>>>>>> 4466756d8efd54bd2cd4096020c3f2030bc9ec6b
             </state>
           </provider>
         </entry>
@@ -36,8 +48,22 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/testRunner/newfile3">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="102">
               <caret line="6" column="1" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+=======
+            <state relative-caret-position="166">
+              <caret line="33" column="66" selection-start-line="33" selection-start-column="66" selection-end-line="33" selection-end-column="66" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#278#279#0" expanded="true" />
+                <element signature="e#349#350#0" expanded="true" />
+                <element signature="e#456#457#0" expanded="true" />
+                <element signature="e#533#534#0" expanded="true" />
+                <element signature="e#614#615#0" expanded="true" />
+                <element signature="e#679#680#0" expanded="true" />
+              </folding>
+>>>>>>> 4466756d8efd54bd2cd4096020c3f2030bc9ec6b
             </state>
           </provider>
         </entry>
@@ -45,8 +71,13 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/testRunner/newfile.json">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="102">
               <caret line="6" column="1" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+=======
+            <state relative-caret-position="204">
+              <caret line="12" column="17" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
+>>>>>>> 4466756d8efd54bd2cd4096020c3f2030bc9ec6b
             </state>
           </provider>
         </entry>
@@ -64,7 +95,11 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
+<<<<<<< HEAD
         <entry key="$PROJECT_DIR$" value="sauravBranch" />
+=======
+        <entry key="$PROJECT_DIR$" value="master" />
+>>>>>>> 4466756d8efd54bd2cd4096020c3f2030bc9ec6b
       </map>
     </option>
   </component>
@@ -105,6 +140,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+<<<<<<< HEAD
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -142,7 +178,10 @@
           <select />
         </subPane>
       </pane>
+=======
+>>>>>>> 4466756d8efd54bd2cd4096020c3f2030bc9ec6b
       <pane id="PackagesPane" />
+      <pane id="ProjectPane" />
       <pane id="Scope">
         <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
           <expand>
@@ -313,7 +352,11 @@
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
     <editor active="true" />
     <layout>
+<<<<<<< HEAD
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24291497" />
+=======
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2388664" />
+>>>>>>> 4466756d8efd54bd2cd4096020c3f2030bc9ec6b
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
@@ -325,7 +368,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.3285968" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.4937833" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.3285968" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -336,6 +379,7 @@
     </layout>
   </component>
   <component name="Vcs.Log.Tabs.Properties">
+<<<<<<< HEAD
     <option name="RECENT_FILTERS">
       <map>
         <entry key="Branch">
@@ -346,6 +390,28 @@
         <entry key="User">
           <value>
             <list />
+=======
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+>>>>>>> 4466756d8efd54bd2cd4096020c3f2030bc9ec6b
           </value>
         </entry>
       </map>
@@ -362,7 +428,23 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/SampleClass.java" />
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/MyFirstMavenProj.iml" />
+=======
+    <entry file="file://$PROJECT_DIR$/MyFirstMavenProj.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/testRunner/RunnerClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="26" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+>>>>>>> 4466756d8efd54bd2cd4096020c3f2030bc9ec6b
     <entry file="file://$PROJECT_DIR$/src/test/java/Features/myfeature.feature">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
@@ -372,8 +454,13 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/Steps/StepDefinition.java">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="308">
           <caret line="27" column="78" selection-start-line="27" selection-start-column="78" selection-end-line="27" selection-end-column="78" />
+=======
+        <state relative-caret-position="166">
+          <caret line="33" column="66" selection-start-line="33" selection-start-column="66" selection-end-line="33" selection-end-column="66" />
+>>>>>>> 4466756d8efd54bd2cd4096020c3f2030bc9ec6b
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#278#279#0" expanded="true" />
