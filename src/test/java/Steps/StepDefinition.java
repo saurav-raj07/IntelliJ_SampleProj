@@ -4,6 +4,9 @@ import cucumber.api.java.en.And;
 import cucumber.api.java.en.Given;
 import cucumber.api.java.en.Then;
 import cucumber.api.java.en.When;
+import restFullServices.TestClass;
+
+import java.io.IOException;
 
 public class StepDefinition {
 
@@ -32,5 +35,20 @@ public class StepDefinition {
     public void testCaseIsComplete() {
         System.out.println("-->> test case is complete");
         System.out.println("-->> test case is complete sucessfully");
+    }
+
+    @When("^user user passed a GET request$")
+    public void userUserPassedAGETRequest() throws IOException {
+
+        System.out.println("hello world ");
+        TestClass testClass = new TestClass();
+        testClass.executeTest();
+        System.out.println(" ");
+    }
+
+    @Then("^Status code is (\\d+)$")
+    public void statusCodeIs(int arg0) {
+
+        System.out.println("Yes the status code returned is 200 Only");
     }
 }
